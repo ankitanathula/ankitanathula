@@ -37,4 +37,4 @@ A Python CLI tool that:
 ---
 
 ## 📫 Contact & Hire Me  
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-Mail-blue?style=for-the-badge)](mailto:ankitanathula@gmail.com?subject=Freelance%20Project%20Inquiry)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Mail-blue?style=for-the-badge)](mailto:ankitanathula@gmail.com)
