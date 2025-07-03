@@ -1,6 +1,6 @@
 <!-- Centered Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/👋-Hello!%20I'%m20Ankit-blue" alt="Hello!">
+  <img src="https://img.shields.io/badge/👋-Hello!%20I'm%20Ankit-blue" alt="Hello!">
 </p>
 
 # Ankit Anathula  
