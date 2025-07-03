@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- Centered Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/👋-Hello!%20I'%m20Ankit-blue" alt="Hello!">
+</p>
 
-<!--
-**ankitanathula/ankitanathula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ankit Anathula  
+**Computer Science Student @ UAH**  
+📍 Huntsville, AL • 📧 [ankitanathula@gmail.com](mailto:ankitanathula@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I Do  
+I build Python-based tools to help clients organize and automate file workflows.  
+Currently learning C++ and exploring new automation projects.
+
+---
+
+## 🚀 Featured Project  
+
+### 📂 File Organizer  
+A Python CLI tool that:  
+- Sorts and groups files by type or date  
+- Batch-renames and moves 10,000 + files in under a minute  
+- Simple to configure via a YAML/JSON settings file  
+
+**Tech:** Python 3 · `argparse` · `logging`  
+🔗 [github.com/ankitanathula/file-organizer](https://github.com/ankitanathula/file-organizer)  
+![Demo GIF](assets/file-organizer-demo.gif)
+
+---
+
+## 🛠️ Skills  
+- **Languages:** Python 3 · C++ (learning)  
+- **Tools:** Git · GitHub  
+- **Other:** CLI scripting · basic unit testing
+
+---
+
+## 📫 Contact & Hire Me  
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Mail-blue?style=for-the-badge)](mailto:ankitanathula@gmail.com?subject=Freelance%20Project%20Inquiry)
