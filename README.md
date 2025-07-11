@@ -5,38 +5,40 @@
 
 # Ankit Anathula  
 **Computer Science Student @ UAH**  
-📍 Huntsville, AL • 📧 [ankitanathula@gmail.com](mailto:ankitanathula@gmail.com)
+📍 Huntsville, AL • 📧 [ankitanathula@gmail.com](mailto:ankitanathula@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ankit-anathula-86a56317a/) | [GitHub](https://github.com/ankitanathula)
 
 ---
 
-## 🔭 What I Do  
-I build Python-based tools to help clients organize and automate file workflows.  
-Currently learning C++ and exploring new automation projects.
+## 🧰 What I Do  
+- Build Python CLI tools to automate workflows and organize data  
+- Practice DevOps basics (CI/CD, caching, linting, coverage)  
+- Currently learning C++ (working through pointers; structs coming soon)  
+- Completed Codecademy’s Python 3 course (100%) + CS 104 @ UAH (99%)
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Projects  
 
 ### 📂 File Organizer  
 A Python CLI tool that:  
 - Sorts and groups files by type or date  
-- Batch-renames and moves 10,000 + files in under a minute  
-- Simple to configure via a YAML/JSON settings file  
+- Batch-renames and moves 10,000+ files in seconds  
+- Uses YAML/JSON for configuration
 
-**Tech:** Python 3 · `argparse` · `logging`  
-🔗 [github.com/ankitanathula/file-organizer](https://github.com/ankitanathula/file-organizer)  
+**Tech:** Python 3 · `argparse` · `os` · `logging`  
+🔗 [GitHub Repo](https://github.com/ankitanathula/file-organizer)  
 ![Demo GIF](assets/file-organizer-demo.gif)
 
 ---
 
 ## 🛠️ Skills  
-- **Languages:** Python 3 · C++ (learning)  
-- **Tools:** Git · GitHub  
-- **Other:** CLI scripting · basic unit testing
+- **Languages:** Python · C++ (pointers in progress) · R (basic clustering) · SQL (basic querying)  
+- **Concepts:** Object-Oriented Programming • Constructors • `__repr__` • File I/O • DevOps Basics
+- **Tools:** Git · GitHub · CLI scripting · Unit testing · CI workflows
 
 ---
 
-## 📫 Contact & Hire Me  
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-Mail-blue?style=for-the-badge)](mailto:ankitanathula@gmail.com)
-✉️ **Email:** ankitanathula@gmail.com
-
+## 💼 Contact  
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Mail-blue?style=for-the-badge)](mailto:ankitanathula@gmail.com)  
+✉️ ankitanathula@gmail.com
